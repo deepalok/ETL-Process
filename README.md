@@ -91,7 +91,6 @@ Load the transformed dataframe to an SQL database server as a table. Write a fun
 #Task 6:
 Run queries on the database table. Write a function run_queries(), execute a given set of queries and verify the output.
 
-<br>
-
 #Task 7:
 Verify that the log entries have been completed at all stages by checking the contents of the file code_log.txt.
+
